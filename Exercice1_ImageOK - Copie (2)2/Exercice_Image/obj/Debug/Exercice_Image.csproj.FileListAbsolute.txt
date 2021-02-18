@@ -1,0 +1,47 @@
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\bin\Debug\Exercice_Image.exe.config
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\obj\Debug\Exercice_Image.Form1.resources
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\obj\Debug\Exercice_Image.Properties.Resources.resources
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\obj\Debug\Exercice_Image.csproj.GenerateResource.Cache
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\bin\Debug\Exercice_Image.exe
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\bin\Debug\Exercice_Image.pdb
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\bin\Debug\Emgu.CV.dll
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\bin\Debug\Emgu.Util.dll
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\bin\Debug\Emgu.CV.xml
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\bin\Debug\Emgu.Util.xml
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\obj\Debug\Exercice_Image.exe
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\obj\Debug\Exercice_Image.pdb
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\obj\Debug\Exercice_Image.csprojResolveAssemblyReference.cache
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\bin\Debug\ZedGraph.dll
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\obj\Debug\Exercice_Image.csproj.Exercice_Image.exe.config
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_ImageOK\Exercice_Image\bin\Debug\Exercice_Image.exe.config
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_ImageOK\Exercice_Image\obj\Debug\Exercice_Image.exe
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_ImageOK\Exercice_Image\obj\Debug\Exercice_Image.pdb
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_ImageOK\Exercice_Image\bin\Debug\Exercice_Image.exe
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_ImageOK\Exercice_Image\bin\Debug\Exercice_Image.pdb
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_ImageOK\Exercice_Image\bin\Debug\ZedGraph.dll
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_ImageOK\Exercice_Image\bin\Debug\Emgu.CV.xml
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_ImageOK\Exercice_Image\bin\Debug\Emgu.Util.xml
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_ImageOK\Exercice_Image\obj\Debug\Exercice_Image.csprojResolveAssemblyReference.cache
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_ImageOK\Exercice_Image\obj\Debug\Exercice_Image.csproj.Exercice_Image.exe.config
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_ImageOK\Exercice_Image\obj\Debug\Exercice_Image.Form1.resources
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_ImageOK\Exercice_Image\obj\Debug\Exercice_Image.Properties.Resources.resources
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_ImageOK\Exercice_Image\obj\Debug\Exercice_Image.csproj.GenerateResource.Cache
+C:\Users\wassim\Desktop\Exercice1_ImageOK\Exercice_Image\obj\Debug\Exercice_Image.exe.config
+C:\Users\wassim\Desktop\Exercice1_ImageOK\Exercice_Image\obj\Debug\Exercice_Image.Form1.resources
+C:\Users\wassim\Desktop\Exercice1_ImageOK\Exercice_Image\obj\Debug\Exercice_Image.Properties.Resources.resources
+C:\Users\wassim\Desktop\Exercice1_ImageOK\Exercice_Image\obj\Debug\Exercice_Image.csproj.GenerateResource.cache
+C:\Users\wassim\Desktop\Exercice1_ImageOK\Exercice_Image\obj\Debug\Exercice_Image.csproj.CoreCompileInputs.cache
+C:\Users\wassim\Desktop\Exercice1_ImageOK - Copie (2)\Exercice_Image\bin\Debug\Exercice_Image.exe.config
+C:\Users\wassim\Desktop\Exercice1_ImageOK - Copie (2)\Exercice_Image\bin\Debug\Exercice_Image.exe
+C:\Users\wassim\Desktop\Exercice1_ImageOK - Copie (2)\Exercice_Image\bin\Debug\Exercice_Image.pdb
+C:\Users\wassim\Desktop\Exercice1_ImageOK - Copie (2)\Exercice_Image\bin\Debug\Example.CameraCapture.exe
+C:\Users\wassim\Desktop\Exercice1_ImageOK - Copie (2)\Exercice_Image\bin\Debug\Example.FaceDetection.exe
+C:\Users\wassim\Desktop\Exercice1_ImageOK - Copie (2)\Exercice_Image\obj\Debug\Exercice_Image.csprojAssemblyReference.cache
+C:\Users\wassim\Desktop\Exercice1_ImageOK - Copie (2)\Exercice_Image\obj\Debug\Exercice_Image.exe.config
+C:\Users\wassim\Desktop\Exercice1_ImageOK - Copie (2)\Exercice_Image\obj\Debug\Exercice_Image.Form1.resources
+C:\Users\wassim\Desktop\Exercice1_ImageOK - Copie (2)\Exercice_Image\obj\Debug\Exercice_Image.Properties.Resources.resources
+C:\Users\wassim\Desktop\Exercice1_ImageOK - Copie (2)\Exercice_Image\obj\Debug\Exercice_Image.csproj.GenerateResource.cache
+C:\Users\wassim\Desktop\Exercice1_ImageOK - Copie (2)\Exercice_Image\obj\Debug\Exercice_Image.csproj.CoreCompileInputs.cache
+C:\Users\wassim\Desktop\Exercice1_ImageOK - Copie (2)\Exercice_Image\obj\Debug\Exercice_Image.csproj.CopyComplete
+C:\Users\wassim\Desktop\Exercice1_ImageOK - Copie (2)\Exercice_Image\obj\Debug\Exercice_Image.exe
+C:\Users\wassim\Desktop\Exercice1_ImageOK - Copie (2)\Exercice_Image\obj\Debug\Exercice_Image.pdb

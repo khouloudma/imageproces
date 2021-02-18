@@ -1,0 +1,45 @@
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\bin\x86\Debug\Exercice_Image.exe.config
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\bin\x86\Debug\Exercice_Image.exe
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\bin\x86\Debug\Exercice_Image.pdb
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\bin\x86\Debug\Emgu.CV.dll
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\bin\x86\Debug\Emgu.CV.UI.dll
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\bin\x86\Debug\Emgu.Util.dll
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\bin\x86\Debug\ZedGraph.dll
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\bin\x86\Debug\Emgu.CV.xml
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\bin\x86\Debug\Emgu.Util.xml
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\obj\x86\Debug\Exercice_Image.Form1.resources
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\obj\x86\Debug\Exercice_Image.Properties.Resources.resources
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\obj\x86\Debug\Exercice_Image.csproj.GenerateResource.Cache
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\obj\x86\Debug\Exercice_Image.exe
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\obj\x86\Debug\Exercice_Image.pdb
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\bin\x86\Debug\Emgu.CV.UI.xml
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Exercice_Image\Exercice_Image\obj\x86\Debug\Exercice_Image.csprojResolveAssemblyReference.cache
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Traitement d'image GPU FPGA\TP2 TITR 3èIII NF2016\Exercice_Image\Exercice_Image\bin\x86\Debug\Exercice_Image.exe.config
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Traitement d'image GPU FPGA\TP2 TITR 3èIII NF2016\Exercice_Image\Exercice_Image\obj\x86\Debug\Exercice_Image.exe
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Traitement d'image GPU FPGA\TP2 TITR 3èIII NF2016\Exercice_Image\Exercice_Image\obj\x86\Debug\Exercice_Image.pdb
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Traitement d'image GPU FPGA\TP2 TITR 3èIII NF2016\Exercice_Image\Exercice_Image\bin\x86\Debug\Exercice_Image.exe
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Traitement d'image GPU FPGA\TP2 TITR 3èIII NF2016\Exercice_Image\Exercice_Image\bin\x86\Debug\Exercice_Image.pdb
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Traitement d'image GPU FPGA\TP2 TITR 3èIII NF2016\Exercice_Image\Exercice_Image\bin\x86\Debug\Emgu.CV.dll
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Traitement d'image GPU FPGA\TP2 TITR 3èIII NF2016\Exercice_Image\Exercice_Image\bin\x86\Debug\Emgu.CV.UI.dll
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Traitement d'image GPU FPGA\TP2 TITR 3èIII NF2016\Exercice_Image\Exercice_Image\bin\x86\Debug\Emgu.Util.dll
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Traitement d'image GPU FPGA\TP2 TITR 3èIII NF2016\Exercice_Image\Exercice_Image\bin\x86\Debug\ZedGraph.dll
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Traitement d'image GPU FPGA\TP2 TITR 3èIII NF2016\Exercice_Image\Exercice_Image\bin\x86\Debug\Emgu.CV.xml
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Traitement d'image GPU FPGA\TP2 TITR 3èIII NF2016\Exercice_Image\Exercice_Image\bin\x86\Debug\Emgu.CV.UI.xml
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Traitement d'image GPU FPGA\TP2 TITR 3èIII NF2016\Exercice_Image\Exercice_Image\bin\x86\Debug\Emgu.Util.xml
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Traitement d'image GPU FPGA\TP2 TITR 3èIII NF2016\Exercice_Image\Exercice_Image\obj\x86\Debug\Exercice_Image.csprojResolveAssemblyReference.cache
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Traitement d'image GPU FPGA\TP2 TITR 3èIII NF2016\Exercice_Image\Exercice_Image\obj\x86\Debug\Exercice_Image.Form1.resources
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Traitement d'image GPU FPGA\TP2 TITR 3èIII NF2016\Exercice_Image\Exercice_Image\obj\x86\Debug\Exercice_Image.Properties.Resources.resources
+F:\Enseignement Nabila _2014\Enseignement 3èmeA 2016_2017\Traitement d'image GPU FPGA\TP2 TITR 3èIII NF2016\Exercice_Image\Exercice_Image\obj\x86\Debug\Exercice_Image.csproj.GenerateResource.Cache
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_Image\Exercice_Image\bin\x86\Debug\Exercice_Image.exe.config
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_Image\Exercice_Image\obj\x86\Debug\Exercice_Image.exe
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_Image\Exercice_Image\obj\x86\Debug\Exercice_Image.pdb
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_Image\Exercice_Image\bin\x86\Debug\Exercice_Image.exe
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_Image\Exercice_Image\bin\x86\Debug\Exercice_Image.pdb
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_Image\Exercice_Image\bin\x86\Debug\ZedGraph.dll
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_Image\Exercice_Image\bin\x86\Debug\Emgu.CV.xml
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_Image\Exercice_Image\bin\x86\Debug\Emgu.CV.UI.xml
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_Image\Exercice_Image\bin\x86\Debug\Emgu.Util.xml
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_Image\Exercice_Image\obj\x86\Debug\Exercice_Image.csprojResolveAssemblyReference.cache
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_Image\Exercice_Image\obj\x86\Debug\Exercice_Image.Form1.resources
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_Image\Exercice_Image\obj\x86\Debug\Exercice_Image.Properties.Resources.resources
+E:\NF enseignement 2019 2020\TITR SI_PII 2019\Exercice1_Image\Exercice_Image\obj\x86\Debug\Exercice_Image.csproj.GenerateResource.Cache
